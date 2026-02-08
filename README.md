@@ -1,9 +1,9 @@
-👋 Hi, I’m Misbah
+# 👋 Hi, I’m Misbah
 
 I’m an engineering student who uses code to express ideas, with a focus on understanding how systems work beneath abstractions.
 
 
-🛠️ Skillset
+# 🛠️ Skillset
 
 **Programming Languages**
 - C/C++ — introductory systems-level work (memory, processes)
@@ -25,7 +25,7 @@ I’m an engineering student who uses code to express ideas, with a focus on und
 - VS Code
 
 
-📚 Learning philosophy:
+# 📚 Learning philosophy:
 - No clone projects
 - Prefer fundamentals over frameworks
 - Write notes, then code, then re-explain
